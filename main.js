@@ -93,7 +93,7 @@ document.querySelector('#app').innerHTML = `
                 <h1 class="dark:text-gray-100 m-2 text-xl sm:text-2xl font-bold tracking-tight mb-2">Software Developer-Intern</h1>
                 <h1 class="dark:text-gray-100 m-2 text-xl sm:text-2xl font-bold tracking-tight mb-2">Cybyte Inc</h1>
                 <p class="dark:text-gray-300 m-2 text-md sm:text-lg mb-2">As a Software Developer Intern, currently working on a hospital management project, I am responsible for backend development using TypeScript, Node.js, and Express.js. My role includes designing and implementing APIs, managing MySQL databases, and utilizing stored procedures to handle complex data operations and ensure efficient system performance.</p>
-                <p class="dark:text-gray-300 m-2 text-md sm:text-lg mb-2">August 2022 - Present</p>
+                <p class="dark:text-gray-300 m-2 text-md sm:text-lg mb-2">August 2024 - Present</p>
             </div>
 
             <div id="block" class="mt-4 p-3 shadow-md w-full max-w-sm dark:bg-zinc-900 bg-zinc-100 rounded-xl border-2 border-solid border-zinc-400 dark:border-zinc-700 hover:border-zinc-600 dark:hover:border-white transform hover:scale-100 transition-transform">
