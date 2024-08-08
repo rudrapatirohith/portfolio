@@ -314,9 +314,8 @@ document.querySelector('#app').innerHTML = `
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <!-- Education Block -->
             <div id="block" class="mt-4 p-3 shadow-md w-full max-w-sm dark:bg-zinc-900 bg-zinc-100 rounded-xl border-2 border-solid border-zinc-400 dark:border-zinc-700 hover:border-zinc-600 dark:hover:border-white transform hover:scale-100 transition-transform">
-                <h1 class="dark:text-gray-100 m-2 text-xl sm:text-2xl font-bold tracking-tight mb-2">Bachelor of Science in Computer Science</h1>
+                <h1 class="dark:text-gray-100 m-2 text-xl sm:text-2xl font-bold tracking-tight mb-2">Masters in Computer Science</h1>
                 <p class="dark:text-gray-300 m-2 text-md sm:text-lg mb-2">Univeristy Of Missouri-Kansas City</p>
-                <p class="dark:text-gray-300 m-2 text-md sm:text-lg mb-2">Masters in Computer Science</p>
                 <p class="dark:text-gray-300 m-2 text-md sm:text-lg mb-2">GPA: 3.822/4</p>
                 <p class="dark:text-gray-300 m-2 text-md sm:text-lg mb-2">Graduated: May 2024</p>
             </div>
